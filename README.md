@@ -7,21 +7,21 @@
 * APIService - interface that contains commands (requests) for server
 * pom.xml - Maven dependencies file
 
-##Task 1. Create and automate test cases
+## Task 1. Create and automate test cases
 
 :white_check_mark: Getting a list of all resources (`testGetPostList()`)  
 :white_check_mark: Getting a resource by id (`testGetPostById()`)  
 :negative_squared_cross_mark: Filtering by query parameters (I honestly don't understand what I have to do here)
 
-##Task 2. Create a bug report for the following issue:
+## Task 2. Create a bug report for the following issue:
 
 **The request GET /posts/0 returned 404 Not Found, but you expect an empty list with 200 OK.**
 
 This was made particular, you may see the output of bug report with `testGetPost0Answer()` function execution (in that task I also probably didn't understand what output data have I to show).
 
-##Task 3. CREATE, UPDATE and DELETE operations testing 
+## Task 3. CREATE, UPDATE and DELETE operations testing 
 
-###CREATE
+### CREATE
 
 To realize that method we need to create method for it inside the `APIService` interface:
 
@@ -53,7 +53,7 @@ public void testCreatePost(){
 ```
 If the post was successful `created this.response.code()` will return us status code 200.
 
-###UPDATE
+### UPDATE
 
 Add the method into the interface:
 
@@ -89,7 +89,7 @@ public void testUpdatePost(){
 }
 ```
 
-###DELETE
+### DELETE
 
 As in cases above create interface method:
 
