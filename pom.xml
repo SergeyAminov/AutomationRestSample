@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.company</groupId>
+    <artifactId>automation-rest-sample</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <description>Sample automation REST testing</description>
+
+    <developers>
+        <developer>
+            <name>Sergey Aminov</name>
+            <roles>
+                <role>owner</role>
+                <role>developer</role>
+            </roles>
+        </developer>
+    </developers>
+
+    <build>
+        <pluginManagement>
+            <plugins>
+                <plugin>
+                    <groupId>org.apache.maven.plugins</groupId>
+                    <artifactId>maven-compiler-plugin</artifactId>
+                    <configuration>
+                        <source>1.8</source>
+                        <target>1.8</target>
+                    </configuration>
+                </plugin>
+            </plugins>
+        </pluginManagement>
+    </build>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/junit/junit -->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.squareup.retrofit2/retrofit -->
+        <dependency>
+            <groupId>com.squareup.retrofit2</groupId>
+            <artifactId>retrofit</artifactId>
+            <version>2.7.2</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.squareup.retrofit2/converter-gson -->
+        <dependency>
+            <groupId>com.squareup.retrofit2</groupId>
+            <artifactId>converter-gson</artifactId>
+            <version>2.7.2</version>
+        </dependency>
+    </dependencies>
+
+
+</project>

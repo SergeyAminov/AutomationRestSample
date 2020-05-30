@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d31256eb-7cf0-42fd-b506-a6517007c608" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cY5rUoDben5N5MPBaPf3cNTlhV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/test/junit5-samples/junit5-jupiter-starter-maven" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SampleTestCases.testGetPost0Answer">
+    <configuration name="SampleTestCases.testFunc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationRestSample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTestCases" />
+      <option name="METHOD_NAME" value="testFunc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTestCases.testGetPost0Answer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationRestSample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTestCases" />
+      <option name="METHOD_NAME" value="testGetPost0Answer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTestCases.testGetPostById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationRestSample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTestCases" />
+      <option name="METHOD_NAME" value="testGetPostById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTestCases.testGetPostList" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationRestSample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleTestCases" />
+      <option name="METHOD_NAME" value="testGetPostList" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.testFunc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationRestSample" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="testFunc" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SampleTestCases.testGetPost0Answer" />
+        <item itemvalue="JUnit.SampleTestCases.testGetPostList" />
+        <item itemvalue="JUnit.SampleTestCases.testGetPostById" />
+        <item itemvalue="JUnit.SampleTestCases.testFunc" />
+        <item itemvalue="JUnit.Test.testFunc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d31256eb-7cf0-42fd-b506-a6517007c608" name="Default Changelist" comment="" />
+      <created>1590692884667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590692884667</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
